@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
-import { withMultiplytix } from 'multiplytix-react'
+import { withMultiplytix } from 'multicat'
 
 import CrowdsaleInfo from 'components/CrowdsaleInfo'
 

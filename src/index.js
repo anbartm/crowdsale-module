@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from 'react-snapshot'
-import { Provider } from 'multiplytix-react'
+import { Provider } from 'multicat'
 import './index.scss'
 import App from './App'
 import registerServiceWorker from './registerServiceWorker'
