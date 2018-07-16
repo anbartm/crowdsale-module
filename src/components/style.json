@@ -1,0 +1,45 @@
+{
+    "color": {
+        "primary": "#0099e5",
+        "primaryDark": "#0085c7",
+        "accent": "#0099e5",
+        "success": "#19af1d",
+        "error": "#f53f40",
+        "warn": "#ffa200",
+        "inactivepp": "#b91919",
+        "grayText": "#434343",
+        "material": "white",
+        "background": "#f3f3f3",
+        "darkGray": "#373737",
+        "midGray": "#727272",
+        "lightGray": "#d8d8d8",
+        "lighterGray": "#f3f3f3",
+        "grayBackground": "#fafafa",
+        "grayEf": "#efefef",
+        "menuMaterial": "#fafafa",
+        "aqua": "#08d3dd",
+        "white": "#ffffff",
+        "grey": "#939393",
+        "blue": "#0099E5",
+        "green": "#5EC456",
+        "darkBlue": "#03334c",
+        "orange": "#FC6F05",
+        "lightOrange": "#ff8d4e",
+        "darkGreen": "#62c25c",
+        "mellowYellow": "#FFFCDB",
+        "deepBlue": "#004668",
+        "darkRed": "#8b0000",
+        "red": "#ff0000"
+    },
+    "animation": {
+        "defaultCurve": "cubic-bezier(0, 0, 0.2, 1)",
+        "defaultCurveIn": "cubic-bezier(0.4, 0, 1, 1)",
+        "defaultCurveInOut": "cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    "breakpoint": {
+        "large": [1201],
+        "desktop": [993, 1200],
+        "tablet": [601, 992],
+        "mobile": [0, 600]
+    }
+}
