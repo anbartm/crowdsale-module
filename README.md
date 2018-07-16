@@ -4,7 +4,7 @@ A crowdsale contribution module that was used for seed crowdsales on cofound.it.
 
 The TOS confirmation is saved in the browsers local storage, delete it to start over when testing.
 
-This demo uses [create-cofab-app](https://github.com/cofablab/create-cofab-app)
+This demo uses the [puding](https://github.com/cofablab/puding)
 
 ![Screenshot](./screenshot.png)
 
@@ -159,3 +159,5 @@ crowdsale-module
 ```
 
 ## License
+
+MIT © [Cofab](https://github.com/cofablab)
