@@ -5238,7 +5238,7 @@ multicast-dns@^6.0.1:
     dns-packet "^1.3.1"
     thunky "^1.0.2"
 
-multicat-react@0.0.15:
+multicat-react@^0.0.15:
   version "0.0.15"
   resolved "https://registry.yarnpkg.com/multicat-react/-/multicat-react-0.0.15.tgz#2c514563919dd5ab963b95d9a810e1937d17f53f"
   dependencies:
@@ -6319,9 +6319,9 @@ public-encrypt@^4.0.0:
     parse-asn1 "^5.0.0"
     randombytes "^2.0.1"
 
-puding@1.1.21:
-  version "1.1.21"
-  resolved "https://registry.yarnpkg.com/puding/-/puding-1.1.21.tgz#6643cf213264709f502eca33980f4c18310e275c"
+puding@1.1.22:
+  version "1.1.22"
+  resolved "https://registry.yarnpkg.com/puding/-/puding-1.1.22.tgz#3516f3b1b86c82dcd96033584aee253114b2e73e"
   dependencies:
     autoprefixer "7.1.6"
     babel-core "6.26.0"
@@ -6352,6 +6352,7 @@ puding@1.1.21:
     html-webpack-plugin "2.29.0"
     jest "20.0.4"
     marked "^0.4.0"
+    multicat-react "^0.0.15"
     node-sass "^4.9.2"
     object-assign "4.1.1"
     postcss-flexbugs-fixes "3.2.0"
