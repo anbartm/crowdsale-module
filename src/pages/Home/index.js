@@ -1,18 +1,19 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
-import { withMultiplytix } from 'multicat'
+import { withMulticat } from 'multicat'
 
 import CrowdsaleInfo from 'components/CrowdsaleInfo'
 
 class Home extends PureComponent {
   static propTypes = {
-    multiplytixEvent: PropTypes.func,
-    multiplytixView: PropTypes.func,
+    multicatEvent: PropTypes.func,
+    multicatView: PropTypes.func,
   }
   componentDidMount() {
-    const { multiplytixView } = this.props
-    multiplytixView('/')
+    const { multicatView } = this.props
+    multicatView && multicatView('/')
   }
+
   render() {
     /**
      * Mock static data
@@ -69,4 +70,6 @@ class Home extends PureComponent {
   }
 }
 
-export default withMultiplytix(Home)
+export default Home
+
+// export default withMulticat(Home)

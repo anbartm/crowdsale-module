@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "puding": "1.1.9",
+    "puding": "1.1.20",
     "immutability-helper": "^2.7.1",
     "moment": "^2.22.2",
     "moment-timezone": "0.5.17",

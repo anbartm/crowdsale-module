@@ -7,11 +7,11 @@ import Home from './pages/Home'
 
 class App extends Component {
   static contextTypes = {
-    multiplytixEvent: PropTypes.func,
-    multiplytixView: PropTypes.func,
+    multicatEvent: PropTypes.func,
+    multicatView: PropTypes.func,
   }
   render() {
-    const { multiplytixEvent } = this.context
+    const { multicatEvent } = this.context
     const appClassName = classNames({
       App: true,
     })
