@@ -158,6 +158,4 @@ crowdsale-module
 └── yarn.lock
 ```
 
-## License
-
-MIT © [Cofab](https://github.com/cofablab)
+Find more tools like that on [Cofab](https://cofablab.com/)
